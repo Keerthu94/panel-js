@@ -1,0 +1,14 @@
+{
+    "name": "panel-js",
+    "version": "0.1.0",
+    "private": true,
+    "dependencies": {},
+    "scripts": {
+        "start": "lite-server",
+        "lint": "eslint scripts/*.js"
+    },
+    "devDependencies": {
+        "eslint": "^5.16.0",
+        "lite-server": "^2.4.0"
+    }
+}
